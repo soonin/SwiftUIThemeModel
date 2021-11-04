@@ -11,6 +11,18 @@
 		FAFEB6062733D248002DF928 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAFEB6052733D248002DF928 /* ContentView.swift */; };
 		FAFEB6082733D24B002DF928 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAFEB6072733D24B002DF928 /* Assets.xcassets */; };
 		FAFEB60B2733D24B002DF928 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAFEB60A2733D24B002DF928 /* Preview Assets.xcassets */; };
+		FAFEB6182733D3CB002DF928 /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAFEB6172733D3CB002DF928 /* Theme.swift */; };
+		FAFEB61A2733D412002DF928 /* ThemeManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAFEB6192733D412002DF928 /* ThemeManager.swift */; };
+		FAFEB61C2733D438002DF928 /* ThemeDefinitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAFEB61B2733D438002DF928 /* ThemeDefinitions.swift */; };
+		FAFEB61F2733D577002DF928 /* ExtentionUIColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAFEB61E2733D577002DF928 /* ExtentionUIColor.swift */; };
+		FAFEB6212733DB02002DF928 /* ThemeColours.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAFEB6202733DB02002DF928 /* ThemeColours.xcassets */; };
+		FAFEB6232733DF8D002DF928 /* ThemeSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAFEB6222733DF8D002DF928 /* ThemeSource.swift */; };
+		FAFEB6252733E125002DF928 /* ThemeSelectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAFEB6242733E125002DF928 /* ThemeSelectView.swift */; };
+		FAFEB6272733E15F002DF928 /* DestinationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAFEB6262733E15F002DF928 /* DestinationView.swift */; };
+		FAFEB6292733E191002DF928 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAFEB6282733E191002DF928 /* MainView.swift */; };
+		FAFEB62C2733E2AF002DF928 /* ButtonModifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAFEB62B2733E2AF002DF928 /* ButtonModifiers.swift */; };
+		FAFEB62E2733E2CB002DF928 /* AppearanceModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAFEB62D2733E2CB002DF928 /* AppearanceModifier.swift */; };
+		FAFEB6312733E372002DF928 /* Sample.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAFEB6302733E372002DF928 /* Sample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +31,18 @@
 		FAFEB6052733D248002DF928 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		FAFEB6072733D24B002DF928 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FAFEB60A2733D24B002DF928 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		FAFEB6172733D3CB002DF928 /* Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Theme.swift; sourceTree = "<group>"; };
+		FAFEB6192733D412002DF928 /* ThemeManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeManager.swift; sourceTree = "<group>"; };
+		FAFEB61B2733D438002DF928 /* ThemeDefinitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeDefinitions.swift; sourceTree = "<group>"; };
+		FAFEB61E2733D577002DF928 /* ExtentionUIColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtentionUIColor.swift; sourceTree = "<group>"; };
+		FAFEB6202733DB02002DF928 /* ThemeColours.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = ThemeColours.xcassets; sourceTree = "<group>"; };
+		FAFEB6222733DF8D002DF928 /* ThemeSource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeSource.swift; sourceTree = "<group>"; };
+		FAFEB6242733E125002DF928 /* ThemeSelectView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeSelectView.swift; sourceTree = "<group>"; };
+		FAFEB6262733E15F002DF928 /* DestinationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DestinationView.swift; sourceTree = "<group>"; };
+		FAFEB6282733E191002DF928 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		FAFEB62B2733E2AF002DF928 /* ButtonModifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonModifiers.swift; sourceTree = "<group>"; };
+		FAFEB62D2733E2CB002DF928 /* AppearanceModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppearanceModifier.swift; sourceTree = "<group>"; };
+		FAFEB6302733E372002DF928 /* Sample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +76,12 @@
 			isa = PBXGroup;
 			children = (
 				FAFEB6032733D248002DF928 /* SwiftUIThemeModelApp.swift */,
-				FAFEB6052733D248002DF928 /* ContentView.swift */,
+				FAFEB6222733DF8D002DF928 /* ThemeSource.swift */,
+				FAFEB62F2733E337002DF928 /* Resouces */,
+				FAFEB6152733D330002DF928 /* Tools */,
+				FAFEB6142733D2ED002DF928 /* ViewModel */,
+				FAFEB6132733D2DE002DF928 /* Views */,
+				FAFEB6112733D2A2002DF928 /* Model */,
 				FAFEB6072733D24B002DF928 /* Assets.xcassets */,
 				FAFEB6092733D24B002DF928 /* Preview Content */,
 			);
@@ -65,6 +94,77 @@
 				FAFEB60A2733D24B002DF928 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		FAFEB6112733D2A2002DF928 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		FAFEB6132733D2DE002DF928 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				FAFEB6052733D248002DF928 /* ContentView.swift */,
+				FAFEB6242733E125002DF928 /* ThemeSelectView.swift */,
+				FAFEB6262733E15F002DF928 /* DestinationView.swift */,
+				FAFEB6282733E191002DF928 /* MainView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		FAFEB6142733D2ED002DF928 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		FAFEB6152733D330002DF928 /* Tools */ = {
+			isa = PBXGroup;
+			children = (
+				FAFEB62A2733E28A002DF928 /* Modifiers */,
+				FAFEB61D2733D557002DF928 /* Extentions */,
+				FAFEB6162733D38B002DF928 /* Themes */,
+			);
+			path = Tools;
+			sourceTree = "<group>";
+		};
+		FAFEB6162733D38B002DF928 /* Themes */ = {
+			isa = PBXGroup;
+			children = (
+				FAFEB6202733DB02002DF928 /* ThemeColours.xcassets */,
+				FAFEB6172733D3CB002DF928 /* Theme.swift */,
+				FAFEB6192733D412002DF928 /* ThemeManager.swift */,
+				FAFEB61B2733D438002DF928 /* ThemeDefinitions.swift */,
+			);
+			path = Themes;
+			sourceTree = "<group>";
+		};
+		FAFEB61D2733D557002DF928 /* Extentions */ = {
+			isa = PBXGroup;
+			children = (
+				FAFEB61E2733D577002DF928 /* ExtentionUIColor.swift */,
+			);
+			path = Extentions;
+			sourceTree = "<group>";
+		};
+		FAFEB62A2733E28A002DF928 /* Modifiers */ = {
+			isa = PBXGroup;
+			children = (
+				FAFEB62B2733E2AF002DF928 /* ButtonModifiers.swift */,
+				FAFEB62D2733E2CB002DF928 /* AppearanceModifier.swift */,
+			);
+			path = Modifiers;
+			sourceTree = "<group>";
+		};
+		FAFEB62F2733E337002DF928 /* Resouces */ = {
+			isa = PBXGroup;
+			children = (
+				FAFEB6302733E372002DF928 /* Sample.swift */,
+			);
+			path = Resouces;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -127,6 +227,7 @@
 			files = (
 				FAFEB60B2733D24B002DF928 /* Preview Assets.xcassets in Resources */,
 				FAFEB6082733D24B002DF928 /* Assets.xcassets in Resources */,
+				FAFEB6212733DB02002DF928 /* ThemeColours.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +238,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FAFEB6272733E15F002DF928 /* DestinationView.swift in Sources */,
+				FAFEB6182733D3CB002DF928 /* Theme.swift in Sources */,
+				FAFEB6312733E372002DF928 /* Sample.swift in Sources */,
 				FAFEB6062733D248002DF928 /* ContentView.swift in Sources */,
+				FAFEB6292733E191002DF928 /* MainView.swift in Sources */,
 				FAFEB6042733D248002DF928 /* SwiftUIThemeModelApp.swift in Sources */,
+				FAFEB61A2733D412002DF928 /* ThemeManager.swift in Sources */,
+				FAFEB62E2733E2CB002DF928 /* AppearanceModifier.swift in Sources */,
+				FAFEB61F2733D577002DF928 /* ExtentionUIColor.swift in Sources */,
+				FAFEB6232733DF8D002DF928 /* ThemeSource.swift in Sources */,
+				FAFEB6252733E125002DF928 /* ThemeSelectView.swift in Sources */,
+				FAFEB61C2733D438002DF928 /* ThemeDefinitions.swift in Sources */,
+				FAFEB62C2733E2AF002DF928 /* ButtonModifiers.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
