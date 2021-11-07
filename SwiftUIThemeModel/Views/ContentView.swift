@@ -7,10 +7,16 @@
 
 import SwiftUI
 
+/// ContentView main app
 struct ContentView: View {
+    // MARK: Properties
+    
+    /// themeSource share themes between views
     @EnvironmentObject var themeSource: ThemeSource
     @State private var showModal = false
     @State private var showDestination = false
+    
+    /// body of ContentView
     var body: some View {
         NavigationView {
             ScrollView {

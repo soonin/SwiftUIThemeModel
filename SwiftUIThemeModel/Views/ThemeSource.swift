@@ -8,12 +8,16 @@
 import SwiftUI
 
 class ThemeSource: ObservableObject {
+    // MARK: Properties
+    /// An MSAL credential object.
     @AppStorage("selectedTheme") var selectedThemeAS = 1 {
         didSet {
             updateTheme()
         }
     }
     
+    // MARK: Initializers
+    /// Initialize call updateTheme
     init() {
         updateTheme()
     }

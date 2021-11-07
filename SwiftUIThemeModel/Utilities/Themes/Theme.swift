@@ -7,7 +7,10 @@
 
 import UIKit
 
+/// Theme protocol for Theme strcuture
 protocol Theme {
+    // MARK: Required Properties
+    
     var primaryColor: UIColor { get }
     var secondaryColor: UIColor { get }
     var labelColor: UIColor { get }
